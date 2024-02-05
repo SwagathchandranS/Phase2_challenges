@@ -1,7 +1,7 @@
 from pwn import *
 
 # Set up the binary and connection
-binary_path = './your_binary'
+binary_path = '/home/swagathchandrans/Desktop/script.bin'
 p = process(binary_path)  # Change this if connecting to a remote server
 
 # Your automation logic goes here
