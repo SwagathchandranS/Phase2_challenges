@@ -8,13 +8,13 @@
 
 ### How to Do 
 
-##### Social Engineering: Ethical hackers may use social engineering techniques to test the human element of security. This includes phishing campaigns, impersonation, and other methods to assess an organization's susceptibility to manipulation.
+##### 1.Social Engineering: Ethical hackers may use social engineering techniques to test the human element of security. This includes phishing campaigns, impersonation, and other methods to assess an organization's susceptibility to manipulation.
 
-##### Wireless Network Testing: Assess the security of wireless networks by identifying and exploiting vulnerabilities such as weak encryption, unauthorized access points, and insecure configurations.
+##### 2.Wireless Network Testing: Assess the security of wireless networks by identifying and exploiting vulnerabilities such as weak encryption, unauthorized access points, and insecure configurations.
 
-##### Web Application Testing: Evaluate the security of web applications by analyzing code, identifying common vulnerabilities (e.g., SQL injection, cross-site scripting), and testing authentication mechanisms.
+##### 3.Web Application Testing: Evaluate the security of web applications by analyzing code, identifying common vulnerabilities (e.g., SQL injection, cross-site scripting), and testing authentication mechanisms.
 
-##### IoT Security Testing: Assess the security of Internet of Things (IoT) devices by evaluating their firmware, communication protocols, and potential vulnerabilities. This is crucial as IoT devices become more prevalent in various environments.
+##### 4.IoT Security Testing: Assess the security of Internet of Things (IoT) devices by evaluating their firmware, communication protocols, and potential vulnerabilities. This is crucial as IoT devices become more prevalent in various environments.
 
 ### Conclusion
 
