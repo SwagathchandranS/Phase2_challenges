@@ -2,9 +2,7 @@
 
 ### Introduction:-
 
-##### Ethical hacking, also known as penetration testing or white-hat hacking, is the authorized and legal practice of probing systems, networks, and applications for security 
-##### vulnerabilities. The goal is to identify and rectify potential weaknesses before malicious hackers can exploit them. 
-##### Miscellaneous questions in ethical hacking cover a broad range of topics, and understanding them is crucial for a comprehensive approach to securing digital assets.\
+##### Ethical hacking, also known as penetration testing or white-hat hacking, is the authorized and legal practice of probing systems, networks, and applications for security vulnerabilities. The goal is to identify and rectify potential weaknesses before malicious hackers can exploit them. Miscellaneous questions in ethical hacking cover a broad range of topics, and understanding them is crucial for a comprehensive approach to securing digital assets.
 
 ### How to Do:-
 
