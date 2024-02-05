@@ -1,0 +1,1 @@
+I heard that there are is no official strings for windows and I love Windows!So I asked my hacker friend to give me his forged copy for strings. But he reminded me that he intercepted from other hackers which have intercepted it from others and that from others… I don’t know how many times it was intercepted but it works! I have tested it on my Windows and it works like a charm!
